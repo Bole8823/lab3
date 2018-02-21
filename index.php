@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 ?>
 <!DOCTYPE html>
@@ -22,3 +23,6 @@
         </div>
     </body>
 </html>
+=======
+test
+>>>>>>> 75acfed9947f3bc677fe7bdd1602c0a72a7f5d51
