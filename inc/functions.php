@@ -25,22 +25,22 @@ function findWinner($play1, $play2, $play3, $play4) //compares scores and prints
     {
         if ($play1 == $s)
         {
-            echo "<h1>Cody wins $p1win points</h1>";
+            echo "<h1>Berlin wins $p1win points</h1>";
             break;
         }
         elseif ($play2 == $s)
         {
-            echo "<h1>Kara wins $p2win points</h1>";
+            echo "<h1>Tokyo wins $p2win points</h1>";
             break;
         }
         elseif ($play3 == $s)
         {
-            echo "<h1>Fernando wins $p3win points</h1>";
+            echo "<h1>El profesor wins $p3win points</h1>";
             break;
         }
         elseif ($play4 == $s)
         {
-            echo "<h1>Dani wins $p4win points</h1>";
+            echo "<h1>the secret player wins $p4win points</h1>";
             break;
         }     
      }   
